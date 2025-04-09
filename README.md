@@ -38,3 +38,6 @@ This pipeline converts given data into dataframe and has various functions to lo
 Flask App creation :
 
 Flask app is created with User Interface to predict the student exam performance
+
+## Screenshot of UI
+![One](https://github.com/user-attachments/assets/6ead392e-0d8a-4689-8114-b2f7b4cd7a2a)
