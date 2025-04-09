@@ -40,4 +40,5 @@ Flask App creation :
 Flask app is created with User Interface to predict the student exam performance
 
 ## Screenshot of UI
-![One](https://github.com/user-attachments/assets/6ead392e-0d8a-4689-8114-b2f7b4cd7a2a)
+
+![One](https://github.com/user-attachments/assets/5467c764-3765-44b7-a835-46b2846af19d)
